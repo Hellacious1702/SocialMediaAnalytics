@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Hellacious1702.github.io/SocialMediaAnalytics",
+  "homepage": "https://hellacious1702.github.io/SocialMediaAnalytics",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
